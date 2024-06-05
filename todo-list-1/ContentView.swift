@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("Hello from Develop")
             Text("DEVELOP")
             Text("Finish 100%")
+            Text("Please merge this PR")
         }
         .padding()
     }
